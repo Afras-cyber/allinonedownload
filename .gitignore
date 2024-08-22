@@ -3,4 +3,3 @@ serviceAccountKey.json
 yarn.lock
 package-lock.json
 .env
-serviceAccountKey.json
